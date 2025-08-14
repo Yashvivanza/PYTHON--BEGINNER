@@ -51,5 +51,14 @@ nums.extend([29,12,14,36])
 print(nums)
 print("")
 
+print(min(nums))
+print("")
+
+print(max(nums))
+print("")
+
+print(sum(nums))
+print("")
+
 nums.sort()
 print(nums)
